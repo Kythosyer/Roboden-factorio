@@ -1,0 +1,14 @@
+{
+    "name": "RoboDensity",
+    "version": "1.0.0",
+    "title": "Roboport Density",
+    "description": "Displays the density of different bots in Roboports",
+    "author": "Kythosyer",
+    "contact": "https://github.com/Kythosyer/Roboden-factorio",
+    "homepage": "https://github.com/Kythosyer/Roboden-factorio",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0",
+        "flib >= 0.15.0"
+    ]
+}
