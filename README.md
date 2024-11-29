@@ -1,7 +1,10 @@
 # RoboDensity
 Mod written in Lua for Factorio 2.0+
-Toggle it with ```Control + I``` or via the shortcut
+
+Toggle it with ```Control + I``` or via the shortcut.
+
 Simply displays a circle representing the density of the robots in various roboports! Hover over the information element for more details
+
 Modes
 * Logistic Bot
 * Construction Bot
